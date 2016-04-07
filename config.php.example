@@ -1,0 +1,3 @@
+<?php
+
+const YANDEX_LOCATOR_KEY = "YOUR_KEY_HERE";
